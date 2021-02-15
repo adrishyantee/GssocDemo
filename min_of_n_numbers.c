@@ -1,3 +1,5 @@
+//Calculates minimum of n numbers.
+
 #include <stdio.h>
 #include <limits.h>
 
